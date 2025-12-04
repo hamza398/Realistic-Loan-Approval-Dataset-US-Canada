@@ -43,7 +43,7 @@ I'm a **Junior/Mid/Senior Data Analyst**, based in **Rawalpindi, Pakistan**.
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
+    <img width="100" height="40" alt="image" src="https://github.com/user-attachments/assets/3782bcbd-33bb-443e-8dcd-5ed89dd4df33" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" />
 </div>
